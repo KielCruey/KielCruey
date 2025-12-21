@@ -1,24 +1,5 @@
 # I'm Kiel (Kyle)
-
-I'm a software engineer with a background in electrical engineering.
-Previously graduated from UW-Milwaukee with a BS of Electrical Engineering.
-Currently I'm attending ASU online (start date Fall 2025) for a MS of Software Engineering.
-
-In the past, I've laid out PCBs and supported hardware designs in various ECAD software including Altium and Eagle CAD.
-
-Most recently, I've programmed hardware via firmware design/updates and software development via Qt (C++) and .Net (C#) frameworks.
-
-My career interests are:
-* audio programming/hardware
-* video game development
-* high frequency trading
-* embedded systems.
-
-My technical interest are:
-* dsp
-* multithreading
-* build systems
-* Linux
+Check out my [personal blog](https://kcruey.com) all things related to software, hardware, and firmware!
 
 # Portfolio
 [C++ Design Patterns](https://github.com/KielCruey/design-patterns)
