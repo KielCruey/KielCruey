@@ -1,6 +1,10 @@
 # I'm Kiel (Kyle)
 Check out my [personal blog](https://kcruey.com) all things related to software, hardware, and firmware!
 
+Blog supporting repositories:
+* [cmake-tutorial](https://github.com/KielCruey/cmake-tutorial)
+* [cpp-tips](https://github.com/KielCruey/cpp-tips)
+
 # Portfolio
 [C++ Design Patterns](https://github.com/KielCruey/design-patterns)
 * helped with object oriented programming and general software paradigms
@@ -30,4 +34,4 @@ Check out my [personal blog](https://kcruey.com) all things related to software,
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KielCruey&layout=compact&show_icons=true&theme=dark)](https://github.com/KielCruey/github-readme-stats&layout=compact&show_icons=true&theme=dark)
 
 # Last Updated
-December 2025
+May 2026
