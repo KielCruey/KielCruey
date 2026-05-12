@@ -1,6 +1,7 @@
 # I'm Kiel (Kyle)
-Check out my [personal blog](https://kcruey.com) all things related to software, hardware, and firmware!
+To get to know my background and technical interests visit my [about me](https://kcruey.com/about/) page.
 
+Check out my [personal blog](https://kcruey.com) all things related to software, hardware, and firmware!
 Blog supporting repositories:
 * [cmake-tutorial](https://github.com/KielCruey/cmake-tutorial)
 * [cpp-tips](https://github.com/KielCruey/cpp-tips)
@@ -26,7 +27,7 @@ Blog supporting repositories:
 * "project-requirements.pdf" is a document to create a potential software system and it's requirements
     * tools used: 
         * LaTex (generating PDF)
-        * graphviz (creating beautiful tables and graphs in the PDF)  
+        * graphviz (creating beautiful tables and graphs)  
 
 # Github Overview
 [![Profile Stats](https://github-readme-stats.vercel.app/api?username=KielCruey&show_icons=true&theme=dark)](https://github.com/KielCruey/github-readme-stats&show_icons=true&theme=dark)
