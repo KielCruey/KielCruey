@@ -20,8 +20,11 @@ Blog supporting repositories:
 [Leetcode](https://github.com/KielCruey/leetcode)
 * leetcode.com solved problems
 
-[Hardware](https://github.com/KielCruey/hardware)
-* general simulation of hardware circuits
+[Hardware](https://github.com/KielCruey/kicad-tutorials)
+* [KiCad](https://www.kicad.org/) as my ECAD software
+   * schematic layouts
+   * pcb layouts
+   * general simulation of hardware circuits
 
 [Reports](https://github.com/KielCruey/reports)
 * "project-requirements.pdf" is a document to create a potential software system and it's requirements
